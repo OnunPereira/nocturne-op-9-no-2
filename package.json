@@ -1,0 +1,22 @@
+{
+    "name": "nocturne-op-9-no-2",
+    "publisher": "nunopereiraas",
+    "displayName": "Nocturne op.9 No.2",
+    "description": "A pastel dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nocturne op.9 No.2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nocturne op.9 No.2-color-theme.json"
+            }
+        ]
+    }
+}
